@@ -2,6 +2,44 @@
 
 Trackster is an AI-powered productivity and task management application built with Flutter. It helps users stay organized, improve productivity, and maintain motivation through intelligent task analysis, progress tracking, and inspirational content.
 
+---
+
+## 📱 Preview
+
+### 🤖 AI Productivity Coach
+Powered by **Google Gemini (gemini-2.5-flash)** — analyzes your task list and gives personalized productivity strategies through an integrated chat interface.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/45990be8-089e-427c-8f99-63e3ab71c089" width="300">
+</p>
+
+### 📊 Productivity Analytics
+Today's completion %, last 7 days overview, and interactive pie charts.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/da33e2ba-fea6-458f-835a-c3c59fde46a7" width="300">
+</p>
+
+### 📋 Tasks Dashboard
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c250f954-b9ac-44f2-9d29-f87aca50ed64" width="300">
+</p>
+
+### 💡 Inspire
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/81510e9c-fc74-4c9a-8f7d-af5e81861809" width="300">
+</p>
+
+### 🔐 Login / Sign Up
+
+| Login | Sign Up |
+|--------|--------|
+| <img src="https://github.com/user-attachments/assets/f219b0da-1987-40bb-b0cd-49b1e8861a30" width="250"> | <img src="https://github.com/user-attachments/assets/7d29429a-e9a9-4fdf-9496-77b599ca14bf" width="250"> |
+
+---
+
 ## ✨ Features
 
 ### 📋 Task Management
@@ -12,8 +50,6 @@ Trackster is an AI-powered productivity and task management application built wi
 - View and manage tasks for any selected day
 
 ### 🤖 AI Productivity Coach
-Powered by **Google Gemini (gemini-2.5-flash)**.
-
 The AI coach can:
 - Analyze daily task lists
 - Generate personalized productivity summaries
@@ -51,40 +87,6 @@ Stay motivated throughout the day:
 
 ---
 
-## 📱 Screenshots
-
-### Authentication
-
-| Login | Sign Up |
-|--------|--------|
-| <img src="https://github.com/user-attachments/assets/f219b0da-1987-40bb-b0cd-49b1e8861a30" width="250"> | <img src="https://github.com/user-attachments/assets/7d29429a-e9a9-4fdf-9496-77b599ca14bf" width="250"> |
-
-### Tasks Dashboard
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c250f954-b9ac-44f2-9d29-f87aca50ed64" width="300">
-</p>
-
-### AI Productivity Coach
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/45990be8-089e-427c-8f99-63e3ab71c089" width="300">
-</p>
-
-### Productivity Statistics
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/da33e2ba-fea6-458f-835a-c3c59fde46a7" width="300">
-</p>
-
-### Inspire
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/81510e9c-fc74-4c9a-8f7d-af5e81861809" width="300">
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -107,6 +109,21 @@ Stay motivated throughout the day:
 ### APIs
 - Custom Backend APIs
 - Public Motivational Quotes API
+
+---
+
+## 🎯 What I Learned
+
+Through building Trackster, I gained practical experience with:
+
+- Flutter application development
+- State management using Provider
+- REST API integration
+- JWT authentication
+- Secure credential storage
+- AI integration using Google Gemini
+- Building scalable mobile applications
+- Team collaboration using Git and GitHub
 
 ---
 
@@ -187,21 +204,6 @@ class GeminiConfig {
 
 ---
 
-## 🎯 What I Learned
-
-Through building Trackster, I gained practical experience with:
-
-- Flutter application development
-- State management using Provider
-- REST API integration
-- JWT authentication
-- Secure credential storage
-- AI integration using Google Gemini
-- Building scalable mobile applications
-- Team collaboration using Git and GitHub
-
----
-
 ## 🔮 Future Enhancements
 
 - Task priorities
@@ -214,6 +216,7 @@ Through building Trackster, I gained practical experience with:
 - AI-generated daily schedules
 - Cross-platform support
 - Integrated timers and reminders for each task
+
 ---
 
 ## 🤝 Collaboration
@@ -233,3 +236,4 @@ If you found this project interesting, consider giving it a star on GitHub!
 ---
 
 Made with ❤️ using Flutter, Gemini AI, and Spring Boot.
+
